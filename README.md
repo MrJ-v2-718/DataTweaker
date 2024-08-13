@@ -4,6 +4,7 @@ DataTweaker.README
 ---------
 
 DataTweaker - A Simple CSV Editor
+
 Instructions for DataTweaker Application
 ------------------------------------------------------
 The "pandas" Python module is a dependency for the application to run.
